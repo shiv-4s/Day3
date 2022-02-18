@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(75, 170, 75);
+}
+#vegetableSaladImage{
+    position: relative;
+    left: 600px;
+}
+#benefits, #benefitsParagraph, #steps, #footerText{
+    text-align: center;
+}
+#stepForVegetableSalad{
+    position: relative;
+    left: 400px;
+}
+
+ 
+
